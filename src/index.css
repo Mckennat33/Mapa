@@ -1,0 +1,8 @@
+body {
+    background-color: aliceblue;
+}
+
+/* Leaflet needs the map container to have a height */
+#map {
+    height: 500px;
+}
